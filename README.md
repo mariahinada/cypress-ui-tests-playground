@@ -1,0 +1,1 @@
+# cypress-ui-tests-playground
