@@ -14,6 +14,9 @@ Objetivo do teste: Acessar a página, clicar no botão que ignora eventos DOM no
 Site: https://uitestingplayground.com/dynamicid
 Objetivo do teste: Acessar a página e verificar que o ID do botão muda a cada reload.
 
+## Visibility
+Nessa pasta, temos testes automatizados de visibilidade de elementos.
+
 **uitestingplayground-visibility.cy**
 Site: http://www.uitestingplayground.com/visibility
 Objetivo do teste: Acessar a página e conferir os botões visíveis. Clicar no botão "hide" que oculta os demais botões e, conferir que eles não estão mais visíveis.
