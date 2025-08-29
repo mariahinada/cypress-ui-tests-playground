@@ -1,7 +1,9 @@
 # cypress-ui-tests-playground
 
 # Objetivo
-A ideia do repositório é explorar projetos de sandbox front/back e criar testes automatizados para eles.
+A ideia do repositório é explorar projetos de sandbox front/back e criar testes automatizados para eles. Então existem duas pastas principais:
+`uitestingplayground` -> Playground gringo desenvolvido pela Inflectra, dentro dele existem diversos exercícios para colocar em prática
+`devfinance` -> Págin desenvolvida pelo canal Agilizei, com o objetivo de ser utilizado em uma aula ao vivo sobre testes E2E
 
 ## Click
 Nessa pasta, temos testes automatizados de clique.
