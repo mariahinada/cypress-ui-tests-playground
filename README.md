@@ -5,8 +5,8 @@ A ideia do repositório é explorar projetos de sandbox front/back e criar teste
 `uitestingplayground` -> Playground gringo desenvolvido pela Inflectra, dentro dele existem diversos exercícios para colocar em prática
 `devfinance` -> Págin desenvolvida pelo canal Agilizei, com o objetivo de ser utilizado em uma aula ao vivo sobre testes E2E
 
-## Click
-Nessa pasta, temos testes automatizados de clique.
+## Click (uitestingplayground)
+Nessa pasta, temos testes automatizados de clique, onde o meu objetivo é zerar ou concluir todos os desafios que a página oferece.
 
 **uitestingplayground-click.cy**
 Site: https://uitestingplayground.com/click
@@ -20,7 +20,7 @@ Objetivo do teste: Acessar a página e verificar que o ID do botão muda a cada 
 Site: http://www.uitestingplayground.com/classattr
 Objetivo do teste: Acessar a página, clicar no botão azul e verificar o conteúdo do alert.
 
-## Visibility
+## Visibility (uitestingplayground)
 Nessa pasta, temos testes automatizados de visibilidade de elementos.
 
 **uitestingplayground-visibility.cy**
