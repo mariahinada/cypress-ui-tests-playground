@@ -1,4 +1,4 @@
-/// <reference types='cypress' />
+/// <reference types='cypress' /> // ativa as ref. dos comandos
 
 describe('Agilizei - Dev Finances', () => {
   beforeEach(() => {
