@@ -2,8 +2,9 @@
 
 # Objetivo
 A ideia do repositório é explorar projetos de sandbox front/back e criar testes automatizados para eles. Então existem duas pastas principais:
+`devfinance` -> Página desenvolvida pelo canal Agilizei, com o objetivo de ser utilizado em uma aula ao vivo sobre testes E2E
+`saucedemo` -> Página desenvolvida pela SauceLabs
 `uitestingplayground` -> Playground gringo desenvolvido pela Inflectra, dentro dele existem diversos exercícios para colocar em prática
-`devfinance` -> Págin desenvolvida pelo canal Agilizei, com o objetivo de ser utilizado em uma aula ao vivo sobre testes E2E
 
 ## Click (uitestingplayground)
 Nessa pasta, temos testes automatizados de clique, onde o meu objetivo é zerar ou concluir todos os desafios que a página oferece.
