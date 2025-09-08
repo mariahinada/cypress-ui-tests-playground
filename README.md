@@ -1,10 +1,11 @@
 # cypress-ui-tests-playground
 
 # Objetivo
-A ideia do repositório é explorar projetos de sandbox front/back e criar testes automatizados para eles. Então existem duas pastas principais:
-`devfinance` -> Página desenvolvida pelo canal Agilizei, com o objetivo de ser utilizado em uma aula ao vivo sobre testes E2E
-`saucedemo` -> Página desenvolvida pela SauceLabs. Teste automatizado refatorado*
-`uitestingplayground` -> Playground gringo desenvolvido pela Inflectra, dentro dele existem diversos exercícios para colocar em prática
+A ideia do repositório é explorar projetos de sandbox front/back e criar testes automatizados para eles. Então existem duas pastas principais: <br>
+`devfinance` -> Página desenvolvida pelo canal Agilizei, com o objetivo de ser utilizado em uma aula ao vivo sobre testes E2E <br>
+`saucedemo` -> Página desenvolvida pela SauceLabs. Teste automatizado refatorado* <br>
+`uitestingplayground` -> Playground gringo desenvolvido pela Inflectra, dentro dele existem diversos exercícios para colocar em prática <br>
+`serverest` -> API REST gratuita simulando loja virtual
 
 ## Click (uitestingplayground)
 Nessa pasta, temos testes automatizados de clique, onde o meu objetivo é zerar ou concluir todos os desafios que a página oferece
